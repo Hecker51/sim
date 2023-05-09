@@ -1,0 +1,49 @@
+body
+{
+    background: url('pato.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+
+
+}
+
+
+#numero{
+
+margin-left: 1300px;
+}
+
+
+canvas
+{
+
+    border-radius: 50px;
+border-style: solid;
+border-color: black;
+
+
+animation-name: kkks;
+animation-duration: 4s;
+animation-iteration-count: infinite ;
+}
+
+
+@keyframes kkks{
+    
+
+    from{
+box-shadow: 1px 1px 38px white;
+    }
+
+    to{
+box-shadow: 1px 1px 38px white;
+
+    }
+}
+#fhs
+{
+bottom: 0px;
+position: fixed;
+width: 100%;
+}
